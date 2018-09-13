@@ -1,0 +1,16 @@
+{
+  "name": "myfirstapp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular-cookies": "1.7.2",
+    "bootstrap": "3.2.0",
+    "modernizr": "^2.8.1",
+    "jquery": "^1.11.1",
+    "CryptoJS": "^3.1.12",
+    "angular-swiper": "^0.4.0"
+  }
+}

@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.h1-title{
+	color: white;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+nav{
+  background: white;
+  color: black;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

@@ -1,0 +1,32 @@
+{
+	"movies":[
+		{
+			"title": "Iron Man",
+			"description": "IronMan nos cuenta sobre el surgimiento de uno de los mayores heroes del mundo marvel, un joven Genio llamado Tony Stark dueño de industrias Stark, que vendia armamento al gobierno estadounidense, sin embargo tras ser secuestrado por terroristas se da cuenta que su armamento es vendido a ellos, ademas tras ser herido gravemente decide construir un traje en la cueva de sus captores y escapar. Al volver a industrias Stark decide aventurarse en un nuevo proyecto, mejorar el traje que realizo en la cueva de sus captores y luchar contra cualquier amenaza terrista bajo el nombre de IronMan",
+			"duration": "110 minutos",
+			"repart": "Robert Downey Jr, Terrence Howard, Jeff Bridges, Gwyneth Paltrow  ",
+			"year": "2008"
+		},
+		{
+			"tittle": "The Avengers",
+			"description": "Nos cuenta la historia de un villano loco llamado loki, que ya habiamos visto en la primera pelicula de Thor, el cual con ayuda de un setro con poderes increibles, intenta invadir el planeta tierra, entonces su hermano Thor, junto con muchos otros super heroes del mundo marvel intentan detenerlo,  es allí donde un agente de shields llamado Nikk fury reune a los mejores super heores del mundo marvel  y decide crear a los avengers, a la cabeza de Iron man, capitan America entre otros para asi detener a Lokiy salvar al planeta de una destrucción alienigena",
+			"duration": "120 minutos",
+			"repart": "Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner,Tom Hiddleston,Cobie Smulders,Samuel L. Jackson  ",
+			"year": "2012"
+		},
+		{
+			"tittle": "Coco",
+			"description": "Coco es una pelicula de disney y pixar que nos muestra la vida de un niño mexicano llamado Miguel y su familia, La cual en principio es conformada por su tatarabuela Imelda, la cual se enamora de un músico y poco despues de tener una hija llamada Coco, este la abandona persiguiendo su sueño. Es entonces que la familia decide olvidar su pasado en la musica y se dedica a la zapateria, sin embargo Miguel desea ser musico a toda costa, es alli cuando conoce el mundo de los muertos y busca a su abuelo para tener su bendición",
+			"duration": "110 minutos",
+			"repart": "Gael Garcia Bernal, Luis Angel Gomez Jaramillo, Marco Antonio Solis, Angélica Vale (Todos actores de doblaje)",
+			"year": "2017"
+		},
+		{
+			"tittle": "The Avengers Infinity War",
+			"description": "Avengers infinity war, es la ultima de las peliculas de la saga avengers del universo marvel, (teniendo en mente que en el 2019 saldra la secuela) y comienza mostrandonos a el pirata loco Thanos, torturando a Thor y Hulk para obtener una de las gemas del infinito, Thanos es un tirano de la galaxia que busca el equilibrio de la vida, y tiene la idea de que para que la vida prevalezca en el universo debe morir el 50% de la vida existente en el universo, para lo cual se propone reunir las 5 gemas del infinito, las cuales unidas tiene  el poder de cumplir su sueño con el chasquido de un guantelete. En esta ocación, Iron man, Hulk y los demas avengers intentaran detener al pirata loco y asi defender la vida en el universo",
+			"duration": "120 minutos",
+			"repart": "Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman , Elizabeth Olsen, Anthony Mackie , Sebastian Stan, Josh Brolin",
+			"year": "2018"
+		}
+	]
+}
